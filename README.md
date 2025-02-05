@@ -1,1 +1,1 @@
-# Beginnings of a dotnet / angular app
+# start of a dotnet web api for app
